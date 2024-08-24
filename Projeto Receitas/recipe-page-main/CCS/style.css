@@ -1,0 +1,81 @@
+body{
+    font-family: "Poppins", sans-serif;
+    max-width: 680px;
+    margin: 0 auto;
+}
+
+.omelete {
+    margin-top: 20px;
+    display: flex;
+    border-radius: 15px;
+    max-width: 100%;
+    margin-bottom: 40px;
+}
+
+.inicial {
+    margin-bottom: 20px;
+    color: #241200;
+    padding: 20px;
+    line-height: 25px;
+    margin-left: -20px;
+}
+
+.titulo {
+    margin-bottom: 20px;
+}
+
+.preparamento {
+    margin-bottom: 20px;
+    margin-left: -20px;
+    font-size: 25px;
+    color: maroon;
+}
+
+.segundo {
+    font-size: 15px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+    line-height: 25px;
+    background-color: #f8f8ff;
+}
+
+.subtitulo {
+    margin-bottom: 20px;
+    margin-left: -25px;
+    color: saddlebrown;
+}
+
+.terceiro{
+    margin-left: 20px;
+    line-height: 30px;
+    margin-bottom: 30px;
+}
+
+.quarto {
+    margin-top: 25px;
+    margin-left: 20px;
+    line-height: 30px;
+    margin-bottom: 30px;
+}
+
+.quinto {
+    margin-top: 25px;
+    margin-left: 20px;
+    line-height: 30px;
+    margin-bottom: 30px;
+}
+
+.resposta {
+    color: saddlebrown;
+}
+
+hr {
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+  }
